@@ -1,5 +1,5 @@
 # -best-pittsburgh-neighborhood
-Team Name: Denimn Leather Jackets
+Team Name: Denim Leather Jackets
 
 Team Members:
     Joshua Packett, jpp88@pitt.edu
