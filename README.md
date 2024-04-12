@@ -1,5 +1,5 @@
 # -best-pittsburgh-neighborhood
-Team Name: Denim Leather Jackets
+Team Name: Eight The Competition
 
 Team Members:
     Joshua Packett, jpp88@pitt.edu
