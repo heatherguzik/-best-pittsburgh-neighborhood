@@ -4,8 +4,10 @@ Team Name: Eight The Competition
 Final Project Group 8
 
 Team Members:
-    Joshua Packett, jpp88@pitt.edu
-    Heather Guzik, hng16@pitt.edu
+    
+- Joshua Packett, jpp88@pitt.edu
+    
+- Heather Guzik, hng16@pitt.edu
 
 Data Description:
 - Arrest Data (analyzed by Joshua):
